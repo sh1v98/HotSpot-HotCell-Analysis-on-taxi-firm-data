@@ -1,4 +1,4 @@
-# CSE512-Project-Hotspot-Analysis-Template
+# Hotspot and Hotcell-Analysis using SparkSQL
 
 #### Version history
 v1.2 Update the readme to work with Canvas
